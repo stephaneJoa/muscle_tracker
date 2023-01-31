@@ -26,7 +26,7 @@ CMD ["python", "manage.py", "runserver", "0.0.0.0:8000"]
 
 
 ## BUILD docker build -t my_muscle_tracker:latest .
-## RUN   docker run -p 8000:8000 manage
+## RUN   docker run -p 8000:8000 my_muscle_tracker
 
 
 ## LINKS https://www.youtube.com/watch?v=W5Ov0H7E_o4
